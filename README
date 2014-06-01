@@ -1,4 +1,12 @@
 Lock Screen Rotation Lock for Android
 
-There is no built in option to disable rotation for loack screen alone in Android. 
-This is annoying because when I pick tablet to unlock it, The roation sensors kick in a little late and rotates the screen while I am trying to enter my unlock pattern
+There is no built in option to disable rotation for lock screen alone in Android. 
+This is annoying because when I pick tablet to unlock it, 
+the rotation sensors kick in a little late and rotates the screen while I am trying to enter my unlock pattern.
+So I have written a samll app that would detect that the screen is locked and disable the screen rotation.
+
+Once the user unlocks the screen, the rotation is enabled again. 
+
+There are a few bugs to be ironed out. I welcome everybody to fork the project and improve it. 
+
+-Shaju
